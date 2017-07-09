@@ -1,0 +1,15 @@
+{
+  "name": "template-html5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -c .browser-sync.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Ventur",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.12"
+  }
+}
